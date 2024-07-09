@@ -14,13 +14,8 @@ const Lommeregner: React.FC = () => {
       
       
       <h1>Dimisonering af ventilation rør & kanaler</h1>
-      <p>Denne side er ikke helt færdig endnu, men her er en lille fulg</p>
-      <div className="animal" style={{ fontSize: '30px', marginBottom: '20px' }}>
-        {/* Fuglefigur */}
-        \  &nbsp;(o> <br />
-          &nbsp;\_)) <br />
-          &nbsp;-"- 
-        </div>
+      <p>Denne side er ikke helt færdig endnu</p>
+     
       
 
 
